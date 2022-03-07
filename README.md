@@ -7,12 +7,12 @@ The purpose of this analysis is to efficiently present how [PyBer's rideshare da
 ## Results
 
 ### Deliverable 1: Ride-share Summary Dataframe
-![Deliverable 1]()
+![Deliverable 1](https://github.com/nyhandan/Challenge_5_PyBer_Analysis/blob/main/Challenge_5_PyBer/Deliverable_1.png)
 From this dataframe summary, we can some big differences in descriptive statistics. The average fare per ride in an urban cities is about 10 dollars higher than in the rural cities! The average fare per driver in the urban city is also significantly higher than in the rural setting, $55 vs. ~$17, respectively. The suburban fares tend to fall right in the middle for each statistic. The sample size ranking of city, in descending order, is Urban, Suburban, then Rural. 
 
 
 ### Deliverable 2: Multiple-line Chart of Total Fares for each City Type
-![Deliverable 2]()
+![Deliverable 2](https://github.com/nyhandan/Challenge_5_PyBer_Analysis/blob/main/Challenge_5_PyBer/Deliverable_2.png)
 From this chart, the fare price for each city type is displayed. The fare price velocity is generally the same for each city type, but the maginitude of change is quite different. The urban and subruban prices trends tend to flucatuate more aggressively, whereas the rural price trends are more stable. 
 
 
